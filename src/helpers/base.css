@@ -1,0 +1,8 @@
+html{
+    font-family: 'Nunito', sans-serif;
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+}
